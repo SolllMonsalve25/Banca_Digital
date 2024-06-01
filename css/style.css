@@ -25,10 +25,15 @@
     color: var(--primary);
 }
 
-.nuevo{
+.bg-primary{
     background-color: var(--primary);
 }
 
 .texto{
     color: var(--primary);
+}
+
+.figure-img{
+    height: 50rem;
+    width: 800rem;
 }
